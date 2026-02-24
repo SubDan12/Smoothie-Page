@@ -6,12 +6,19 @@ This project focuses on layout structure, visual hierarchy, dark/light mode supp
 
 ---
 
+Live Demo: https://smoothie-page.vercel.app/
+Repository: https://github.com/SubDan12/Smoothie-Page
+
+---
+
 ## ScreenShots
 
 ![Hero Light Section](./screenshots/light-hero.png)
 ![Products Light Section](./screenshots/light-product.png)
 ![Hero Dark Section](./screenshots/dark-hero.png)
 ![Products Dark Section](./screenshots/dark-product.png)
+
+---
 
 ## Tech Stack
 
