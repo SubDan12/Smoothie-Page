@@ -66,15 +66,6 @@ export default function Hero() {
         </div>
 
         {/* RIGHT */}
-        {/* <div className="flex justify-end">
-          <img
-            src="/images/hero-1.png"
-            alt="Smoothie"
-            className="h-105 w-130 max-w-full rounded-2xl object-cover"
-          />
-        </div> */}
-
-        {/* RIGHT */}
         <div className="mt-8 flex justify-center md:mt-0 md:justify-end md:absolute md:right-0 md:top-1/2 md:-translate-y-1/2 md:w-[52%] pointer-events-none">
           <img
             src="/images/hero-1.png"
