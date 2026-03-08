@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="border-t border-zinc-100 bg-white dark:border-zinc-800 dark:bg-zinc-950 ">
-      <div className="mx-auto grid max-w-6xl gap-10 px-4 py-12 md:grid-cols-4">
+      <div className="mx-auto grid max-w-screen-2xl gap-10 px-4 py-12 md:grid-cols-4">
         {/* Quick Links */}
         <div>
           <h3 className="font-semibold text-zinc-900 dark:text-lime-600">
